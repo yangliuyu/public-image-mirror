@@ -440,6 +440,8 @@ docker.io/zerotier/*
 docker.io/zhayujie/chatgpt-on-wechat
 docker.io/zilliz/*
 docker.io/zlijingtao/neurobfuscator
+docker.io/openmetadata/*
+docker.io/airbyte/*
 gcr.io/**
 ghcr.io/actions/**
 ghcr.io/advplyr/audiobookshelf
